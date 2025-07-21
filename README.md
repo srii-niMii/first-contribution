@@ -2,6 +2,8 @@
 
 🛠️ Step-by-Step Guide to Contributing to Open Source Projects
 
+# Follow these steps to make your first contribution.
+
 
 1. Fork the repository on GitHub.
 
